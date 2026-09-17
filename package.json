@@ -1,0 +1,16 @@
+{
+  "name": "discord-role-bot",
+  "version": "1.0.0",
+  "description": "Owner-only Discord bot for instant admin role creation via DM",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
